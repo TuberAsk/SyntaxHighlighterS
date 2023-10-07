@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/SyntaxHighlighterS/__init__.py
+src/SyntaxHighlighterS/main.py
+src/SyntaxHighlighterS.egg-info/PKG-INFO
+src/SyntaxHighlighterS.egg-info/SOURCES.txt
+src/SyntaxHighlighterS.egg-info/dependency_links.txt
+src/SyntaxHighlighterS.egg-info/top_level.txt
