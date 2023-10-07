@@ -21,7 +21,7 @@ After doing so proceed to type ```import SyntaxHighlighterS``` or ```from Syntax
 The Syntax Highlighter S library is made with the ```re``` module for patterns and regular expressions, and takes use of the ```tkinter``` library for it's main usage.
 
 ## Usage
-![Image URL](https://cdn.discordapp.com/attachments/1061688130257821816/1135203635572260944/image.png?ex=652bea45&is=65197545&hm=31af216caeafe72f1776da1f813474aca6f6ad97ee4294ac83f5b62bbc8a5ff3&)
+![Image URL](https://cdn.discordapp.com/attachments/822800366604386314/1160307587783348234/Screenshot_464.png?ex=65342fa6&is=6521baa6&hm=d93560f816eb58a0c2018973af47d31777f8e4f202d0466f98edf51e34a8168c&)
 
 ## Functions
 Here are all of the functions the library can be used for:

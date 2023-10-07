@@ -3,7 +3,10 @@ Name: SyntaxHighlighterS
 Version: 0.0.1
 Summary: A Simple Starter Syntax Highlighter.
 Author: TuberAsk
-Project-URL: Homepage, 
+Project-URL: Homepage, https://github.com/TuberAsk/SyntaxHighlighterS
+Project-URL: Documentation, https://github.com/TuberAsk/SyntaxHighlighterS/wiki
+Project-URL: Funding, https://patreon.com/isitopensource
+Project-URL: Bug Tracker, https://github.com/TuberAsk/SyntaxHighlighterS/issues
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 

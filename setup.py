@@ -14,6 +14,9 @@ setup(
     long_description=long_description,  # Use the README content as long description
     long_description_content_type="text/markdown",  # Specify the README file type
     project_urls = {
-        "Homepage": ""
+        "Homepage": "https://github.com/TuberAsk/SyntaxHighlighterS",
+        "Documentation": "https://github.com/TuberAsk/SyntaxHighlighterS/wiki",
+        "Funding": "https://patreon.com/isitopensource",
+        "Bug Tracker": "https://github.com/TuberAsk/SyntaxHighlighterS/issues",
     },
 )
