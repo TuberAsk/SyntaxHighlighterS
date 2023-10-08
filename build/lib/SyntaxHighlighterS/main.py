@@ -82,10 +82,10 @@ class SyntaxHighlighter:
         # Define keywords for each supported language
         keywords_dict = {
             "C": ["if", "include", "signed", "static", "else", "for", "while", "int", "return", "void", "struct", "goto", "do", "char", "double", "short", "long", "extern", "union", "float", "auto", "break", "enum", "register", "typedef", "switch", "sizeof", "volatile", "default", "unsigned", "const", "continue", "case"],
-            "Python": ["if", "else", "for", "while", "def", "import", "return", "class", "elif"],
+            "Python": ["if", "else", "for", "while", "def", "import", "return", "class", "elif", "as", "except", "try"],
             "Lua": ["if", "else", "for", "while", "function", "local", "return", "end", "then", "do", "break"],
-            "JavaScript": ["if", "else", "for", "while", "function", "const", "return", "class"],
-            "HTML": ["DOCTYPE", "html", "head", "title", "body", "div", "p", "a", "img", "ul", "ol", "li", "h1"],
+            "JavaScript": ["if", "else", "for", "while", "function", "const", "return", "class", "break", "case", "catch", "continue", "debugger", "default", "delete", "do", "export", "extends", "false", "finally", "import", "in", "instanceof", "new", "null", "super", "switch", "this", "throw", "true", "try", "typeof", "var", "void", "with", "yield"],
+            "HTML": ["DOCTYPE", "html", "head", "title", "body", "div", "p", "a", "img", "ul", "ol", "li", "h1", "h2", "h3", "h4", "h5", "h6", "meta", "link", "style", "script", "form", "input", "textarea", "button", "select", "option", "label", "table", "tr", "th", "td", "thead", "tbody", "tfoot", "col", "colgroup", "caption", "audio", "video", "source", "iframe", "nav", "header", "footer", "section", "article", "aside", "main", "figure", "figcaption", "details", "summary", "details", "summary", "fieldset", "legend", "canvas", "audio", "video", "map", "area", "abbr", "address", "blockquote", "cite", "code", "del", "dfn", "em", "i", "ins", "kbd", "mark", "q", "s", "samp", "small", "strong", "sub", "sup", "time", "u", "var", "wbr"],
             "SQL": ["SELECT", "FROM", "WHERE", "INSERT", "UPDATE", "DELETE", "CREATE", "ALTER", "DROP", "TABLE", "INTO", "VALUES"],
         }
         return keywords_dict.get(language, [])

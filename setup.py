@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 setup(
     name="SyntaxHighlighterS",
-    version="0.0.1",
+    version="0.0.3",
     description="A Simple Starter Syntax Highlighter.",
     author="TuberAsk",
     packages=find_packages(where="src"),  # Specify the 'src' directory as the package root
