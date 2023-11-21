@@ -16,7 +16,7 @@ setup(
     project_urls = {
         "Homepage": "https://github.com/TuberAsk/SyntaxHighlighterS",
         "Documentation": "https://github.com/TuberAsk/SyntaxHighlighterS/wiki",
-        "Funding": "https://patreon.com/isitopensource",
+        "Funding": "https://ko-fi.com/TuberAsk",
         "Bug Tracker": "https://github.com/TuberAsk/SyntaxHighlighterS/issues",
     },
 )
